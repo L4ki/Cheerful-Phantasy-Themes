@@ -3,125 +3,125 @@
    use responsibly! */
 /*
 widget text/foreground color */
-@define-color theme_fg_color #eff0f1;
+@define-color theme_fg_color #d3dae3;
 /*
 text color for entries, views and content in general */
-@define-color theme_text_color #eff0f1;
+@define-color theme_text_color #d3dae3;
 /*
 widget base background color */
-@define-color theme_bg_color #31363b;
+@define-color theme_bg_color #161a23;
 /*
 text widgets and the like base background color */
-@define-color theme_base_color #232629;
+@define-color theme_base_color #161a23;
 /*
 view hover decoration color*/
-@define-color theme_view_hover_decoration_color #3daee9;
+@define-color theme_view_hover_decoration_color #4040c2;
 /*
 background color of hovering selected widgets*/
-@define-color theme_hovering_selected_bg_color #3daee9;
+@define-color theme_hovering_selected_bg_color #4040c2;
 /*
 base background color of selections */
-@define-color theme_selected_bg_color #3daee9;
+@define-color theme_selected_bg_color #4040c2;
 /*
 text/foreground color of selections */
-@define-color theme_selected_fg_color #eff0f1;
+@define-color theme_selected_fg_color #d3dae3;
 /*
 decoration color of views */
-@define-color theme_view_active_decoration_color #3daee9;
+@define-color theme_view_active_decoration_color #4040c2;
 /*
 base background color of insensitive selections */
-@define-color insensitive_selected_bg_color rgba(37, 164, 230, 0.35);
+@define-color insensitive_selected_bg_color rgba(64, 64, 194, 0.35);
 /*
 base background color of insensitive widgets */
-@define-color insensitive_bg_color #2d3136;
+@define-color insensitive_bg_color #161a23;
 /*
 text foreground color of insensitive widgets */
-@define-color insensitive_fg_color rgba(216, 218, 221, 0.35);
+@define-color insensitive_fg_color rgba(211, 218, 227, 0.35);
 /*
 insensitive text widgets and the like base background color */
-@define-color insensitive_base_color rgba(216, 218, 221, 0.35);
+@define-color insensitive_base_color rgba(211, 218, 227, 0.35);
 /*
 insensitive text widgets and the like base foreground color */
-@define-color insensitive_base_fg_color #202325;
+@define-color insensitive_base_fg_color #161a23;
 /*
 insensitive selected text widgets and the like base background color */
-@define-color insensitive_selected_fg_color rgba(216, 218, 221, 0.35);
+@define-color insensitive_selected_fg_color rgba(211, 218, 227, 0.35);
 /*
 widget text/foreground color on backdrop windows */
-@define-color theme_unfocused_fg_color #eff0f1;
+@define-color theme_unfocused_fg_color #d3dae3;
 /*
 text color for entries, views and content in general on backdrop windows */
-@define-color theme_unfocused_text_color #eff0f1;
+@define-color theme_unfocused_text_color #d3dae3;
 /*
 widget base background color on backdrop windows */
-@define-color theme_unfocused_bg_color #31363b;
+@define-color theme_unfocused_bg_color #161a23;
 /*
 text widgets and the like base background color on backdrop windows */
-@define-color theme_unfocused_base_color #232629;
+@define-color theme_unfocused_base_color #161a23;
 /*
 base background color of selections on backdrop windows, alt */
-@define-color theme_unfocused_selected_bg_color_alt #3daee9;
+@define-color theme_unfocused_selected_bg_color_alt #4040c2;
 /*
 base background color of selections on backdrop windows */
-@define-color theme_unfocused_selected_bg_color rgba(61, 174, 233, 0.5);
+@define-color theme_unfocused_selected_bg_color rgba(64, 64, 194, 0.5);
 /*
 text/foreground color of selections on backdrop windows */
-@define-color theme_unfocused_selected_fg_color #eff0f1;
+@define-color theme_unfocused_selected_fg_color #d3dae3;
 /*
 base background color of insensitive selections on backdrop windows */
-@define-color insensitive_unfocused_selected_bg_color rgba(37, 164, 230, 0.35);
+@define-color insensitive_unfocused_selected_bg_color rgba(64, 64, 194, 0.35);
 /*
 text foreground color of insensitive widgets on backdrop windows*/
-@define-color insensitive_unfocused_fg_color rgba(216, 218, 221, 0.35);
+@define-color insensitive_unfocused_fg_color rgba(211, 218, 227, 0.35);
 /*
 backdground color of insensitive widgets on backdrop windows*/
-@define-color insensitive_unfocused_bg_color #2d3136;
+@define-color insensitive_unfocused_bg_color #161a23;
 /*
 text foreground color of insensitive selected widgets on backdrop windows*/
-@define-color insensitive_unfocused_selected_fg_color rgba(216, 218, 221, 0.35);
+@define-color insensitive_unfocused_selected_fg_color rgba(211, 218, 227, 0.35);
 /*
 view text foreground color of insensitive widgets on backdrop windows */
-@define-color theme_unfocused_view_text_color rgba(216, 218, 221, 0.35);
+@define-color theme_unfocused_view_text_color rgba(211, 218, 227, 0.35);
 /*
 insensitive view background color on backdrop windows */
-@define-color theme_unfocused_view_bg_color #202325;
+@define-color theme_unfocused_view_bg_color #161a23;
 /*
 widgets main borders color */
-@define-color borders #616569;
+@define-color borders #232938;
 /*
 widgets main borders color on backdrop windows */
-@define-color unfocused_borders #616569;
+@define-color unfocused_borders #232938;
 /*
 widgets main borders color insensitive */
-@define-color insensitive_borders rgba(88, 92, 95, 0.35);
+@define-color insensitive_borders rgba(27, 32, 44, 0.35);
 /*
 widgets main borders color insensitive backdrop */
-@define-color unfocused_insensitive_borders rgba(88, 92, 95, 0.35);
+@define-color unfocused_insensitive_borders rgba(27, 32, 44, 0.35);
 /*
 *
 * Button Colors
 *
 */
-@define-color theme_button_background_normal #31363b;
-@define-color theme_button_decoration_hover  #3daee9;
-@define-color theme_button_decoration_focus  #3daee9;
-@define-color theme_button_foreground_normal #eff0f1;
-@define-color theme_button_foreground_active #eff0f1;
-@define-color theme_button_background_insensitive        #2d3136;
-@define-color theme_button_decoration_hover_insensitive  rgba(37, 164, 230, 0.35);
-@define-color theme_button_decoration_focus_insensitive  rgba(37, 164, 230, 0.35);
-@define-color theme_button_foreground_insensitive        rgba(216, 218, 221, 0.35);
-@define-color theme_button_foreground_active_insensitive rgba(216, 218, 221, 0.35);
-@define-color theme_button_background_backdrop        #31363b;
-@define-color theme_button_decoration_hover_backdrop  #3daee9;
-@define-color theme_button_decoration_focus_backdrop  #3daee9;
-@define-color theme_button_foreground_backdrop        #eff0f1;
-@define-color theme_button_foreground_active_backdrop #eff0f1;
-@define-color theme_button_background_backdrop_insensitive        #2d3136;
-@define-color theme_button_decoration_hover_backdrop_insensitive  rgba(37, 164, 230, 0.35);
-@define-color theme_button_decoration_focus_backdrop_insensitive  rgba(37, 164, 230, 0.35);
-@define-color theme_button_foreground_backdrop_insensitive        rgba(216, 218, 221, 0.35);
-@define-color theme_button_foreground_active_backdrop_insensitive rgba(216, 218, 221, 0.35);
+@define-color theme_button_background_normal #161a23;
+@define-color theme_button_decoration_hover  #4040c2;
+@define-color theme_button_decoration_focus  #4040c2;
+@define-color theme_button_foreground_normal #d3dae3;
+@define-color theme_button_foreground_active #d3dae3;
+@define-color theme_button_background_insensitive        #161a23;
+@define-color theme_button_decoration_hover_insensitive  rgba(64, 64, 194, 0.35);
+@define-color theme_button_decoration_focus_insensitive  rgba(64, 64, 194, 0.35);
+@define-color theme_button_foreground_insensitive        rgba(211, 218, 227, 0.35);
+@define-color theme_button_foreground_active_insensitive rgba(211, 218, 227, 0.35);
+@define-color theme_button_background_backdrop        #161a23;
+@define-color theme_button_decoration_hover_backdrop  #4040c2;
+@define-color theme_button_decoration_focus_backdrop  #4040c2;
+@define-color theme_button_foreground_backdrop        #d3dae3;
+@define-color theme_button_foreground_active_backdrop #d3dae3;
+@define-color theme_button_background_backdrop_insensitive        #161a23;
+@define-color theme_button_decoration_hover_backdrop_insensitive  rgba(64, 64, 194, 0.35);
+@define-color theme_button_decoration_focus_backdrop_insensitive  rgba(64, 64, 194, 0.35);
+@define-color theme_button_foreground_backdrop_insensitive        rgba(211, 218, 227, 0.35);
+@define-color theme_button_foreground_active_backdrop_insensitive rgba(211, 218, 227, 0.35);
 /*
 these are pretty self explicative */
 @define-color warning_color #f67400;
@@ -137,30 +137,30 @@ these are pretty self explicative */
 @define-color error_color_insensitive_backdrop   rgba(214, 46, 63, 0.35);
 @define-color success_color_insensitive_backdrop rgba(35, 158, 87, 0.35);
 @define-color link_color #2980b9;
-@define-color link_visited_color #7f8c8d;
+@define-color link_visited_color #1e2431;
 /*
 *
 * Titlebar Colors
 *
 */
-@define-color theme_titlebar_background          #31363b;
-@define-color theme_titlebar_foreground          #eff0f1;
-@define-color theme_titlebar_background_light    #31363b;
-@define-color theme_titlebar_foreground_backdrop #7f8c8d;
-@define-color theme_titlebar_background_backdrop #31363b;
-@define-color theme_titlebar_foreground_insensitive rgba(216, 218, 221, 0.35);
-@define-color theme_titlebar_foreground_insensitive_backdrop rgba(115, 128, 129, 0.35);
+@define-color theme_titlebar_background          #161a23;
+@define-color theme_titlebar_foreground          #d3dae3;
+@define-color theme_titlebar_background_light    #161a23;
+@define-color theme_titlebar_foreground_backdrop #1e2431;
+@define-color theme_titlebar_background_backdrop #161a23;
+@define-color theme_titlebar_foreground_insensitive rgba(211, 218, 227, 0.35);
+@define-color theme_titlebar_foreground_insensitive_backdrop rgba(30, 36, 49, 0.35);
 /*
 * Tooltips
 */
-@define-color tooltip_text #eff0f1;
-@define-color tooltip_background #31363b;
-@define-color tooltip_border #616569;
+@define-color tooltip_text #d3dae3;
+@define-color tooltip_background #161a23;
+@define-color tooltip_border #232938;
 /*
 * Misc
 */
 @define-color print_paper_backdrop  white;
-@define-color content_view_bg #232629;
+@define-color content_view_bg #161a23;
 * {
   padding: 0;
   -GtkToolButton-icon-spacing: 4;
