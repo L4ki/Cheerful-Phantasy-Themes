@@ -7,3 +7,10 @@ Changelog: 14.06.2020.
 GTK-3 Theme "Breeze-Cheerful-Phantasy"
 
 Customized for KDE Plasma 5.19
+
+Changelog: 20.06/2020.
+----------------------
+
+Icon correction: computer.svg
+
+Widget correction: plasmoidheading.svg
