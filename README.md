@@ -16,3 +16,10 @@ Plasma Theme "Cheerful-Phantasy"
 Icon correction: computer.svg
 
 Widget correction: plasmoidheading.svg
+
+Changelog: 04.07.2020.
+---------------------
+
+Icon correction: window.svg
+
+Correction widgets: tasks.svg, plasmoidheading.svg, button.svg
