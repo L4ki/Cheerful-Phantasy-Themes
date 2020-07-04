@@ -20,6 +20,4 @@ Widget correction: plasmoidheading.svg
 Changelog: 04.07.2020.
 ---------------------
 
-Icon correction: window.svg
-
-Correction widgets: tasks.svg, plasmoidheading.svg, button.svg
+Correction widgets: tasks.svg, checkmarks.svg, plasmoidheading.svg, button.svg
