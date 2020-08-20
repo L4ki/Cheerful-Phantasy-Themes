@@ -25,4 +25,19 @@ Correction widgets: tasks.svg, checkmarks.svg, plasmoidheading.svg, button.svg
 Changelog: 20.08.2020.
 ---------------------
 
+Plasma Theme
+-------------
+
 Widgets correction: plasmoidheading.svg, tasks.svg, viewitem.svg
+
+GTK-3 Theme
+-----------
+
+Correction progressbar-trough.png
+
+Icon Theme
+----------
+
+Correction of user-trash icons
+
+
