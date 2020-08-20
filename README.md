@@ -30,6 +30,8 @@ Plasma Theme
 
 Widgets correction: plasmoidheading.svg, tasks.svg, viewitem.svg
 
+Icon correction: window.svg
+
 GTK-3 Theme
 -----------
 
