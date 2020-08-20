@@ -8,7 +8,7 @@ GTK-3 Theme "Breeze-Cheerful-Phantasy"
 
 Customized for KDE Plasma 5.19
 
-Changelog: 20.06/2020.
+Changelog: 20.06.2020.
 ----------------------
 
 Plasma Theme "Cheerful-Phantasy"
@@ -21,3 +21,8 @@ Changelog: 04.07.2020.
 ---------------------
 
 Correction widgets: tasks.svg, checkmarks.svg, plasmoidheading.svg, button.svg
+
+Changelog: 20.08.2020.
+---------------------
+
+Widgets correction: plasmoidheading.svg, tasks.svg, viewitem.svg
