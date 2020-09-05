@@ -42,4 +42,19 @@ Icon Theme
 
 Correction of user-trash icons
 
+Changelog: 05.09.2020.
+----------------------
+
+GTK-3 Theme
+------------
+
+Correction of gtkrc file
+
+Plasma Theme
+------------
+
+Icons correction: applications.svg, bookmarks.svg, computer.svg, view.svg, system.svg, akgregator.svg
+
+Widget correction: button.svg
+
 
