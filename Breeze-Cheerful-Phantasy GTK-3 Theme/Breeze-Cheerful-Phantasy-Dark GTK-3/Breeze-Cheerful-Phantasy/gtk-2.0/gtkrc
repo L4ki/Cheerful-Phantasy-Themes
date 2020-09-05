@@ -1,5 +1,5 @@
-# Theme:       Breeze-Splendent-gtk
-# Description: Breeze-Splendent Theme for GTK Applications in Plasma
+# Theme:       Breeze-Cheerful-Phantasy-gtk
+# Description: Breeze-Cheerful-Phantasy Theme for GTK Applications in Plasma
 
 gtk-color-scheme = "text_color:#d3dae3"
 gtk-color-scheme = "base_color:#161a23"
@@ -10,7 +10,7 @@ gtk-color-scheme = "selected_fg_color:#d3dae3"
 gtk-color-scheme = "selected_bg_color:#483d8b"
 gtk-color-scheme = "button_fg_color:#d3dae3"
 gtk-color-scheme = "tooltip_fg_color:#d3dae3"
-gtk-color-scheme = "tooltip_bg_color:#161a23"
+gtk-color-scheme = "tooltip_bg_color:#1e232f"
 gtk-color-scheme = "insensitive_fg_color:#161a23"
 gtk-color-scheme = "insensitive_text_color:#d3dae3"
 gtk-color-scheme = "button_insensitive_fg_color:#161a23"
