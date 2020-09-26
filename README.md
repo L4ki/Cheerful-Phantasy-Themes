@@ -57,4 +57,9 @@ Icons correction: applications.svg, bookmarks.svg, computer.svg, view.svg, syste
 
 Widget correction: button.svg
 
+Changelog: 26.09.2020.
+----------------------
+
+Correction: scrollbar-slider-horizontal-hover @ 2
+
 
