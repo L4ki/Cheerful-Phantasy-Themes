@@ -60,6 +60,19 @@ Widget correction: button.svg
 Changelog: 26.09.2020.
 ----------------------
 
+GTK-3 Theme
+------------
+
 Correction: scrollbar-slider-horizontal-hover @ 2
+
+Plasma Theme
+-------------
+
+fixed widget: button.svg
+
+Icons
+------
+
+Added mpd.svg icon
 
 
