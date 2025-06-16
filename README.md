@@ -14,7 +14,10 @@ Screenshots:
 Changelog: 16.06.2025.
 ----------------------
 
-Icons: added new icnos apps 48
+Icons
+------
+
+Added new icnos: apps 48
 
 
 
