@@ -17,7 +17,7 @@ Changelog: 15.10.2025.
 Icons
 ------
 
-Added new icnos: apps 48
+Added new icnos: apps 32, 48
 
 
 
