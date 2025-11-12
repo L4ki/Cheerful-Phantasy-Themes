@@ -11,13 +11,13 @@ Screenshots:
 ![Screenshot_20250609_082144](https://github.com/user-attachments/assets/cd14f297-3997-4f1f-a451-5a985d55958a)
 
 
-Changelog: 05.11.2025.
+Changelog: 12.11.2025.
 ----------------------
 
 Icons
 ------
 
-Update icnos: apps 48
+Update icnos: apps 22
 
 
 
