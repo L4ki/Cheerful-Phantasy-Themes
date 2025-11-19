@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg1"
+   fill="none"
+   viewBox="0 0 24 24"
+   version="1.1"
+   width="24"
+   height="24"
+   sodipodi:docname="knotes-symbolic.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#cd87de;stop-opacity:1"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="3"
+       y1="11"
+       x2="19"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       x1="7"
+       y1="11"
+       x2="15"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient6"
+       x1="11"
+       y1="14.5"
+       x2="15"
+       y2="14.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.791667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
+  <g
+     transform="translate(1,1)"
+     id="g1">
+    <path
+       fill="currentColor"
+       id="path1"
+       class="ColorScheme-Text"
+       d="m 3,3 v 13 l 3,3 H 19 V 3 Z M 4,4 H 18 V 18 H 6 V 16 H 4 Z"
+       style="fill:url(#linearGradient2)" />
+    <path
+       fill="currentColor"
+       id="path2"
+       class="ColorScheme-Text"
+       d="M 12.598962,7 9.1914073,10.407552 7,12.598959 V 15 H 9.4010441 L 15,9.4010414 Z m -1.365886,2.3268225 1.440105,1.4401055 -2.115888,2.117187 v -0.450524 l -0.6757799,0.01432 H 9.191408 v -0.690095 -0.390625 l 0.96094,-0.959636 z M 8.5156248,12.042968 v 1.08073 h 0.6901067 0.6614581 l 0.014321,0.434895 -0.7200534,0.721356 H 8.2005215 L 7.7200524,13.79948 v -0.96094 z"
+       style="fill:url(#linearGradient4)" />
+    <path
+       fill="currentColor"
+       id="path3"
+       class="ColorScheme-Text"
+       d="m 12,14 -1,1 h 4 v -1 z"
+       style="fill:url(#linearGradient6)" />
+  </g>
+</svg>
